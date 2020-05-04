@@ -1,4 +1,4 @@
-#YOLO-like object detector on the PASCAL VOC dataset. 
+# YOLO-like object detector on the PASCAL VOC dataset. 
 
 Main focus is on implementing the yolo loss function and experiment with different base architectures and hyperparameters. Starter kit is provided to help you guide though the steps. 
 

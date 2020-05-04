@@ -2,7 +2,7 @@
 
 Main focus is on implementing the yolo loss function and experiment with different base architectures and hyperparameters. Starter kit is provided to help you guide though the steps. 
 
-**PS : The exact loss function (YOLO V1) ** 
+** PS : The exact loss function (YOLO V1) ** 
 
 
 # Data Setup
